@@ -13,10 +13,10 @@ vim.opt.wrap = true
 vim.autoindent = true
 
 -- ui and hud
-vim.opt.cursorline = true
-vim.opt.cursorcolumn = false
 vim.opt.number = true
 -- vim.opt.relativenumber = true
+vim.opt.cursorline = true
+vim.opt.cursorcolumn = true
 vim.opt.splitbelow = true
 vim.opt.splitright = true
 -- vim.opt.showmode = false -- close mode display (e.g. INSERT)
