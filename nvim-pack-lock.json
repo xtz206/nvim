@@ -5,9 +5,21 @@
       "src": "https://github.com/saghen/blink.cmp",
       "version": "'v1'"
     },
+    "lualine": {
+      "rev": "131a558e13f9f28b15cd235557150ccb23f89286",
+      "src": "https://github.com/nvim-lualine/lualine.nvim"
+    },
     "mason": {
       "rev": "cb8445f8ce85d957416c106b780efd51c6298f89",
       "src": "https://github.com/mason-org/mason.nvim"
+    },
+    "nvim-tree": {
+      "rev": "24cfcc94372e526fd9e1c2803ede9e0f1715e33f",
+      "src": "https://github.com/nvim-tree/nvim-tree.lua"
+    },
+    "nvim-web-devicons": {
+      "rev": "4fc505ac7bd7692824a142e96e5f529c133862f8",
+      "src": "https://github.com/nvim-tree/nvim-web-devicons"
     },
     "tokyonight": {
       "rev": "cdc07ac78467a233fd62c493de29a17e0cf2b2b6",
